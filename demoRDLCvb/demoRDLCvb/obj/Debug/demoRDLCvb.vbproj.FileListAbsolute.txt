@@ -1,0 +1,13 @@
+D:\RDLC\demoRDLCvb\demoRDLCvb\bin\Debug\demoRDLCvb.exe.config
+D:\RDLC\demoRDLCvb\demoRDLCvb\bin\Debug\demoRDLCvb.exe
+D:\RDLC\demoRDLCvb\demoRDLCvb\bin\Debug\demoRDLCvb.pdb
+D:\RDLC\demoRDLCvb\demoRDLCvb\bin\Debug\demoRDLCvb.xml
+D:\RDLC\demoRDLCvb\demoRDLCvb\obj\Debug\demoRDLCvb.Form1.resources
+D:\RDLC\demoRDLCvb\demoRDLCvb\obj\Debug\demoRDLCvb.frmReportViewer.resources
+D:\RDLC\demoRDLCvb\demoRDLCvb\obj\Debug\demoRDLCvb.Resources.resources
+D:\RDLC\demoRDLCvb\demoRDLCvb\obj\Debug\demoRDLCvb.vbproj.GenerateResource.Cache
+D:\RDLC\demoRDLCvb\demoRDLCvb\obj\Debug\RdlCompile.cache
+D:\RDLC\demoRDLCvb\demoRDLCvb\obj\Debug\RdlCompile.compiled
+D:\RDLC\demoRDLCvb\demoRDLCvb\obj\Debug\demoRDLCvb.exe
+D:\RDLC\demoRDLCvb\demoRDLCvb\obj\Debug\demoRDLCvb.xml
+D:\RDLC\demoRDLCvb\demoRDLCvb\obj\Debug\demoRDLCvb.pdb

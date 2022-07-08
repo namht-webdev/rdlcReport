@@ -1,0 +1,13 @@
+D:\RDLC\rdlcReport\rdlcReport\bin\Debug\rdlcReport.exe.config
+D:\RDLC\rdlcReport\rdlcReport\bin\Debug\rdlcReport.exe
+D:\RDLC\rdlcReport\rdlcReport\bin\Debug\rdlcReport.pdb
+D:\RDLC\rdlcReport\rdlcReport\bin\Debug\rdlcReport.xml
+D:\RDLC\rdlcReport\rdlcReport\obj\Debug\rdlcReport.vbprojResolveAssemblyReference.cache
+D:\RDLC\rdlcReport\rdlcReport\obj\Debug\rdlcReport.Resources.resources
+D:\RDLC\rdlcReport\rdlcReport\obj\Debug\rdlcReport.vbproj.GenerateResource.Cache
+D:\RDLC\rdlcReport\rdlcReport\obj\Debug\rdlcReport.exe
+D:\RDLC\rdlcReport\rdlcReport\obj\Debug\rdlcReport.xml
+D:\RDLC\rdlcReport\rdlcReport\obj\Debug\rdlcReport.pdb
+D:\RDLC\rdlcReport\rdlcReport\obj\Debug\rdlcReport.rptLayout.resources
+D:\RDLC\rdlcReport\rdlcReport\obj\Debug\RdlCompile.cache
+D:\RDLC\rdlcReport\rdlcReport\obj\Debug\RdlCompile.compiled

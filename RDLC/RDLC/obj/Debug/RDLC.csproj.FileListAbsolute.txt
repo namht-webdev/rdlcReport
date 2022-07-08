@@ -1,0 +1,12 @@
+D:\RDLC\RDLC\RDLC\bin\Debug\RDLC.exe.config
+D:\RDLC\RDLC\RDLC\bin\Debug\RDLC.exe
+D:\RDLC\RDLC\RDLC\bin\Debug\RDLC.pdb
+D:\RDLC\RDLC\RDLC\obj\Debug\RDLC.csprojResolveAssemblyReference.cache
+D:\RDLC\RDLC\RDLC\obj\Debug\RDLC.Form1.resources
+D:\RDLC\RDLC\RDLC\obj\Debug\RDLC.Properties.Resources.resources
+D:\RDLC\RDLC\RDLC\obj\Debug\RDLC.csproj.GenerateResource.Cache
+D:\RDLC\RDLC\RDLC\obj\Debug\RdlCompile.cache
+D:\RDLC\RDLC\RDLC\obj\Debug\RdlCompile.compiled
+D:\RDLC\RDLC\RDLC\obj\Debug\RDLC.exe
+D:\RDLC\RDLC\RDLC\obj\Debug\RDLC.pdb
+D:\RDLC\RDLC\RDLC\bin\Debug\CustomerList.rdlc
